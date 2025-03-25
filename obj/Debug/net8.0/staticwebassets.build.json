@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "W4eZU7vw+2xXCeK0LtqKAmDFzCW3lUzVoA4Xxng02s0=",
+  "Source": "TicketHub.Api",
+  "BasePath": "_content/TicketHub.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
