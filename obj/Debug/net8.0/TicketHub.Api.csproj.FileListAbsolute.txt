@@ -159,3 +159,14 @@ C:\MyProjects\TicketHub\TicketHub.Api\TicketHub.Api\bin\Debug\net8.0\runtimes\wi
 C:\MyProjects\TicketHub\TicketHub.Api\TicketHub.Api\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\MyProjects\TicketHub\TicketHub.Api\TicketHub.Api\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\MyProjects\TicketHub\TicketHub.Api\TicketHub.Api\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\MyProjects\TicketHub\TicketHub.Api\TicketHub.Api\obj\Debug\net8.0\TicketHub.Api.sourcelink.json
+C:\MyProjects\TicketHub\TicketHub.Api\TicketHub.Api\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\MyProjects\TicketHub\TicketHub.Api\TicketHub.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\MyProjects\TicketHub\TicketHub.Api\TicketHub.Api\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\MyProjects\TicketHub\TicketHub.Api\TicketHub.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\MyProjects\TicketHub\TicketHub.Api\TicketHub.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\MyProjects\TicketHub\TicketHub.Api\TicketHub.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\MyProjects\TicketHub\TicketHub.Api\TicketHub.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\MyProjects\TicketHub\TicketHub.Api\TicketHub.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\MyProjects\TicketHub\TicketHub.Api\TicketHub.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\MyProjects\TicketHub\TicketHub.Api\TicketHub.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
